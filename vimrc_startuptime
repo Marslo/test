@@ -1,0 +1,106 @@
+
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.003  000.003: --- VIM STARTING ---
+000.101  000.098: Allocated generic buffers
+000.180  000.079: locale set
+000.186  000.006: window checked
+000.594  000.408: inits 1
+000.660  000.066: parsing arguments
+000.661  000.001: expanding arguments
+000.671  000.010: shell init
+000.948  000.277: Termcap init
+000.975  000.027: inits 2
+001.075  000.100: init highlight
+001.658  000.198  000.198: sourcing /root/.marslo/myprograms/vim74/share/vim/vim74/syntax/syncolor.vim
+001.793  000.407  000.209: sourcing /root/.marslo/myprograms/vim74/share/vim/vim74/syntax/synload.vim
+022.911  021.054  021.054: sourcing /root/.marslo/myprograms/vim74/share/vim/vim74/filetype.vim
+022.962  021.651  000.190: sourcing /root/.marslo/myprograms/vim74/share/vim/vim74/syntax/syntax.vim
+023.044  000.014  000.014: sourcing /root/.marslo/myprograms/vim74/share/vim/vim74/filetype.vim
+023.147  000.044  000.044: sourcing /root/.marslo/myprograms/vim74/share/vim/vim74/ftplugin.vim
+023.244  000.038  000.038: sourcing /root/.marslo/myprograms/vim74/share/vim/vim74/indent.vim
+023.955  000.631  000.631: sourcing /root/.marslo/myprograms/vim74/share/vim/vim74/macros/matchit.vim
+024.350  000.298  000.298: sourcing /root/.marslo/myprograms/vim74/share/vim/vim74/ftoff.vim
+024.899  000.194  000.194: sourcing /root/.marslo/.vim/bundle/vundle/autoload/vundle.vim
+025.204  000.177  000.177: sourcing /root/.marslo/.vim/bundle/vundle/autoload/vundle/config.vim
+033.418  000.372  000.372: sourcing /root/.marslo/.vim/bundle/vim-pathogen/autoload/pathogen.vim
+047.120  000.169  000.169: sourcing /root/.marslo/.vim/bundle/groovy-vim-files/filetype.vim
+069.078  001.473  001.473: sourcing /root/.marslo/.vim/bundle/vim-ruby/ftdetect/ruby.vim
+069.400  000.225  000.225: sourcing /root/.marslo/.vim/bundle/vim-javascript/ftdetect/javascript.vim
+069.530  000.066  000.066: sourcing /root/.marslo/.vim/bundle/vim-javascript-syntax/ftdetect/javascript.vim
+069.812  000.151  000.151: sourcing /root/.marslo/.vim/bundle/vim-markdown/ftdetect/mkd.vim
+070.372  023.201  021.286: sourcing /root/.marslo/myprograms/vim74/share/vim/vim74/filetype.vim
+070.867  000.014  000.014: sourcing /root/.marslo/myprograms/vim74/share/vim/vim74/ftplugin.vim
+071.361  000.013  000.013: sourcing /root/.marslo/myprograms/vim74/share/vim/vim74/indent.vim
+072.585  000.176  000.176: sourcing /root/.marslo/myprograms/vim74/share/vim/vim74/syntax/syncolor.vim
+073.401  000.170  000.170: sourcing /root/.marslo/myprograms/vim74/share/vim/vim74/syntax/syncolor.vim
+074.176  000.181  000.181: sourcing /root/.marslo/myprograms/vim74/share/vim/vim74/syntax/syncolor.vim
+074.761  002.707  002.180: sourcing /root/.marslo/.vim/bundle/marslo.vim/colors/marslo.vim
+075.601  074.486  024.963: sourcing /root/.marslo/.vimrc
+075.611  000.050: sourcing vimrc file(s)
+076.184  000.226  000.226: sourcing /root/.marslo/.vim/bundle/ctrlp.vim/autoload/ctrlp/mrufiles.vim
+076.402  000.659  000.433: sourcing /root/.marslo/.vim/bundle/ctrlp.vim/plugin/ctrlp.vim
+076.563  000.058  000.058: sourcing /root/.marslo/.vim/bundle/gundo.vim/plugin/gundo.vim
+077.403  000.763  000.763: sourcing /root/.marslo/.vim/bundle/tagbar/plugin/tagbar.vim
+077.652  000.144  000.144: sourcing /root/.marslo/.vim/bundle/authorinfo/plugin/authorinfo.vim
+079.378  001.639  001.639: sourcing /root/.marslo/.vim/bundle/EnhCommentify.vim/plugin/EnhancedCommentify.vim
+080.661  001.147  001.147: sourcing /root/.marslo/.vim/bundle/supertab/plugin/supertab.vim
+081.235  000.467  000.467: sourcing /root/.marslo/.vim/bundle/auto-pairs/plugin/auto-pairs.vim
+082.068  000.743  000.743: sourcing /root/.marslo/.vim/bundle/snipmate.vim/plugin/snipMate.vim
+084.073  001.902  001.902: sourcing /root/.marslo/.vim/bundle/mru/plugin/mru.vim
+084.517  000.339  000.339: sourcing /root/.marslo/.vim/bundle/Conque-Shell/plugin/conque_term.vim
+085.232  000.631  000.631: sourcing /root/.marslo/.vim/bundle/taglist.vim/plugin/taglist.vim
+086.328  000.973  000.973: sourcing /root/.marslo/.vim/bundle/winmanager/plugin/winfileexplorer.vim
+087.315  000.930  000.930: sourcing /root/.marslo/.vim/bundle/winmanager/plugin/winmanager.vim
+087.662  000.310  000.310: sourcing /root/.marslo/.vim/bundle/winmanager/plugin/wintagexplorer.vim
+087.929  000.161  000.161: sourcing /root/.marslo/.vim/bundle/accelerated-jk/plugin/accelerated-jk.vim
+088.136  000.081  000.081: sourcing /root/.marslo/.vim/bundle/python_fold/plugin/python_fold.vim
+089.358  001.098  001.098: sourcing /root/.marslo/.vim/bundle/vim-rails/plugin/rails.vim
+090.247  000.530  000.530: sourcing /root/.marslo/.vim/bundle/vim-textobj-user/autoload/textobj/user.vim
+095.755  006.255  005.725: sourcing /root/.marslo/.vim/bundle/vim-textobj-rubyblock/plugin/textobj/rubyblock.vim
+095.930  000.064  000.064: sourcing /root/.marslo/.vim/bundle/ruby-matchit/plugin/ruby-matchit.vim
+096.479  000.439  000.439: sourcing /root/.marslo/.vim/bundle/vim-angular/plugin/angular.vim
+097.132  000.574  000.574: sourcing /root/.marslo/.vim/bundle/vim-surround/plugin/surround.vim
+097.911  000.673  000.673: sourcing /root/.marslo/.vim/bundle/rainbow/plugin/rainbow.vim
+098.507  000.357  000.357: sourcing /root/.marslo/.vim/bundle/groovy-vim-files/plugin/gist.vim
+099.199  000.656  000.656: sourcing /root/.marslo/.vim/bundle/groovy-vim-files/plugin/imaps.vim
+099.874  000.636  000.636: sourcing /root/.marslo/.vim/bundle/groovy-vim-files/plugin/narrow.vim
+100.272  000.363  000.363: sourcing /root/.marslo/.vim/bundle/groovy-vim-files/plugin/visincr.vim
+100.651  000.086  000.086: sourcing /root/.marslo/myprograms/vim74/share/vim/vim74/plugin/getscriptPlugin.vim
+100.960  000.275  000.275: sourcing /root/.marslo/myprograms/vim74/share/vim/vim74/plugin/gzip.vim
+101.235  000.240  000.240: sourcing /root/.marslo/myprograms/vim74/share/vim/vim74/plugin/matchparen.vim
+101.886  000.617  000.617: sourcing /root/.marslo/myprograms/vim74/share/vim/vim74/plugin/netrwPlugin.vim
+101.959  000.019  000.019: sourcing /root/.marslo/myprograms/vim74/share/vim/vim74/plugin/rrhelper.vim
+102.046  000.049  000.049: sourcing /root/.marslo/myprograms/vim74/share/vim/vim74/plugin/spellfile.vim
+102.319  000.224  000.224: sourcing /root/.marslo/myprograms/vim74/share/vim/vim74/plugin/tarPlugin.vim
+102.475  000.110  000.110: sourcing /root/.marslo/myprograms/vim74/share/vim/vim74/plugin/tohtml.vim
+102.695  000.182  000.182: sourcing /root/.marslo/myprograms/vim74/share/vim/vim74/plugin/vimballPlugin.vim
+102.987  000.242  000.242: sourcing /root/.marslo/myprograms/vim74/share/vim/vim74/plugin/zipPlugin.vim
+106.485  003.321  003.321: sourcing /root/.marslo/.vim/bundle/snipmate.vim/after/plugin/snipMate.vim
+106.899  000.301  000.301: sourcing /root/.marslo/.vim/bundle/indentLine/after/plugin/indentLine.vim
+107.368  004.029: loading plugins
+107.379  000.011: inits 3
+107.464  000.085: reading viminfo
+107.471  000.007: setting raw mode
+107.476  000.005: start termcap
+107.498  000.022: clearing screen
+108.725  000.026  000.026: sourcing /root/.marslo/.vim/bundle/groovy-vim-files/scripts.vim
+109.480  000.695  000.695: sourcing /root/.marslo/myprograms/vim74/share/vim/vim74/scripts.vim
+117.215  006.737  006.737: sourcing /root/.marslo/myprograms/vim74/share/vim/vim74/syntax/vim.vim
+120.989  003.294  003.294: sourcing /root/.marslo/.vim/bundle/vim-coloresque/after/syntax/css/vim-coloresque.vim
+121.262  003.922  000.628: sourcing /root/.marslo/.vim/bundle/vim-coloresque/after/syntax/vim.vim
+126.088  000.314  000.314: sourcing /root/.marslo/myprograms/vim74/share/vim/vim74/ftplugin/vim.vim
+127.781  000.127  000.127: sourcing /root/.marslo/myprograms/vim74/share/vim/vim74/indent/vim.vim
+134.673  002.591  002.591: sourcing /root/.marslo/.vim/bundle/tagbar/autoload/tagbar.vim
+134.765  002.954  000.363: sourcing /root/.vim/view/~=+.marslo=+.vimrc=
+135.880  013.607: opening buffers
+136.282  000.197  000.197: sourcing /root/.marslo/.vim/bundle/ctrlp.vim/autoload/ctrlp/utils.vim
+603.778  467.701: BufEnter autocommands
+603.781  000.003: editing files in windows
+603.951  000.170: VimEnter autocommands
+603.952  000.001: before starting main loop
+650.606  046.654: first screen update
+650.621  000.015: --- VIM STARTED ---
